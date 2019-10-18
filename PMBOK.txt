@@ -1,0 +1,14 @@
+1.  Collect Requirements and Define Scope (PMBOK® Guide Fifth Edition) (EL 546023) 
+9.  Validate and Control Scope (PMBOK® Guide Fifth Edition) (EL 546025) 
+2.  Create Work Breakdown Structure (PMBOK® Guide Fifth Edition) (EL 546024) 
+3.  Estimate Resources and Durations (PMBOK® Guide Fifth Edition) (EL 546029) 
+4.  Define and Sequence Activities (PMBOK® Guide Fifth Edition) (EL 546026) 
+5.  Develop and Control the Schedule (PMBOK® Guide Fifth Edition) (EL 546030) 
+6.  Perform Quality Assurance and Quality Control (PMBOK® Guide Fifth Edition) (EL 546037) 
+7.  Planning Project Quality (PMBOK® Guide Fifth Edition) (EL 546035) 
+8.  Quality Management and Continuous Improvement (EL 546038) 
+10. Managing Project Communications (PMBOK® Guide Fifth Edition) (EL 546041) 
+11. Controlling Communications (PMBOK® Guide Fifth Edition) (EL 546042) 
+
+
+
